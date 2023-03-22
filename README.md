@@ -1,0 +1,1 @@
+"# is-smos-npm-package" 
