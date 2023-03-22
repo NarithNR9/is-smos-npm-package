@@ -1,0 +1,23 @@
+{
+  "name": "is-smos",
+  "version": "1.0.2",
+  "description": "To check if the name given smos or not.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarithNR9/is-smos-npm-package.git"
+  },
+  "keywords": [
+    "smos"
+  ],
+  "author": "NR9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NarithNR9/is-smos-npm-package/issues"
+  },
+  "homepage": "https://github.com/NarithNR9/is-smos-npm-package#readme"
+}
